@@ -12,10 +12,11 @@ header{
 }
 
 .logo{
-    width:120px;
+    width:220px;
+    height:auto;
     display:block;
-    margin:auto;
-    border-radius:10px;
+    margin:0 auto 15px;
+}
 }
 
 header h1{
